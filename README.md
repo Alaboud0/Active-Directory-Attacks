@@ -1,5 +1,5 @@
 # File Naming Instructions
--TXXX --> T =tool ,XXX -> Name Of Tool
+-TXXX --> T =tool , XXX -> Name Of Tool
 
 -U --> User 
 
