@@ -1,0 +1,821 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "sfRNbEsGMh"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "sfRNbEsGMh"
+        ],
+        "distinguishedName": [
+            "CN=sfRNbEsGMh,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "givenName": [
+            "sfRNbEsGMh"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "sfRNbEsGMh"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{2481fe03-3196-472c-8ad3-abbabcd9aad8}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1109"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2023-09-20 12:57:37.782232+00:00"
+        ],
+        "sAMAccountName": [
+            "sfRNbEsGMh"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "sfRNbEsGMh"
+        ],
+        "uSNChanged": [
+            41256
+        ],
+        "uSNCreated": [
+            41254
+        ],
+        "userAccountControl": [
+            512
+        ],
+        "whenChanged": [
+            "2023-09-20 12:57:37+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-20 12:57:37+00:00"
+        ]
+    },
+    "dn": "CN=sfRNbEsGMh,CN=Users,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "SQL Service"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2023-09-13 21:26:51+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "description": [
+            "Password is MYpassword123#"
+        ],
+        "distinguishedName": [
+            "CN=SQL Service,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "givenName": [
+            "SQL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Domain Admins,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Enterprise Admins,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Schema Admins,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Administrators,CN=Builtin,DC=MARVEL,DC=local"
+        ],
+        "name": [
+            "SQL Service"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{87878162-43d2-4463-a168-7d26f94642f7}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1106"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2023-09-13 21:11:06.748768+00:00"
+        ],
+        "sAMAccountName": [
+            "sqlservice"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "DomainController/SQLService.MARVEL.local:60111",
+            "SQLService/MARVEL.local",
+            "HYDRA-DC/SQLService.MARVEL.local:60111"
+        ],
+        "sn": [
+            "Service"
+        ],
+        "uSNChanged": [
+            16432
+        ],
+        "uSNCreated": [
+            12897
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "sqlservice@ -Path DC=marvel,DC=local"
+        ],
+        "whenChanged": [
+            "2023-09-13 21:26:51+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:11:06+00:00"
+        ]
+    },
+    "dn": "CN=SQL Service,CN=Users,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Tony Stark"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2023-09-13 21:26:51+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "distinguishedName": [
+            "CN=Tony Stark,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "givenName": [
+            "Tony"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2023-09-13 22:30:02.954863+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2023-09-13 21:57:05.517324+00:00"
+        ],
+        "logonCount": [
+            4
+        ],
+        "memberOf": [
+            "CN=Domain Admins,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Administrators,CN=Builtin,DC=MARVEL,DC=local"
+        ],
+        "name": [
+            "Tony Stark"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{c83802d4-b748-444e-bf65-193f76b376c1}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1105"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2023-09-13 21:11:06.654682+00:00"
+        ],
+        "sAMAccountName": [
+            "tstark"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Stark"
+        ],
+        "uSNChanged": [
+            16452
+        ],
+        "uSNCreated": [
+            12885
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "tstark@ -Path DC=marvel,DC=local"
+        ],
+        "whenChanged": [
+            "2023-09-13 21:57:05+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:11:06+00:00"
+        ]
+    },
+    "dn": "CN=Tony Stark,CN=Users,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2023-09-18 23:49:56.389278+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Frank Castle"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2023-09-13 21:26:51+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "distinguishedName": [
+            "CN=Frank Castle,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "givenName": [
+            "Frank"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2023-09-20 12:32:39.017136+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2023-09-14 21:39:16.054766+00:00"
+        ],
+        "logonCount": [
+            6
+        ],
+        "memberOf": [
+            "CN=Domain Admins,OU=Groups,DC=MARVEL,DC=local"
+        ],
+        "name": [
+            "Frank Castle"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{07dfe4d4-813f-4fb3-8460-535b0c1c4d37}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1104"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2023-09-13 21:11:06.561646+00:00"
+        ],
+        "sAMAccountName": [
+            "fcastle"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Castle"
+        ],
+        "uSNChanged": [
+            24622
+        ],
+        "uSNCreated": [
+            12876
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "fcastle@ -Path DC=marvel,DC=local"
+        ],
+        "whenChanged": [
+            "2023-09-14 21:39:16+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:11:06+00:00"
+        ]
+    },
+    "dn": "CN=Frank Castle,CN=Users,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Peter Parker"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "distinguishedName": [
+            "CN=Peter Parker,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "givenName": [
+            "Peter"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "Peter Parker"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{0c7dcc8e-7f68-457c-9024-6f503a66b61d}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1103"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2023-09-13 21:11:06.405487+00:00"
+        ],
+        "sAMAccountName": [
+            "pparker"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Parker"
+        ],
+        "uSNChanged": [
+            12874
+        ],
+        "uSNCreated": [
+            12870
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "pparker@ -Path DC=marvel,DC=local"
+        ],
+        "whenChanged": [
+            "2023-09-13 21:11:06+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:11:06+00:00"
+        ]
+    },
+    "dn": "CN=Peter Parker,CN=Users,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "krbtgt"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2023-09-13 21:26:51+00:00",
+            "2023-09-13 21:04:26+00:00",
+            "1601-01-01 00:04:16+00:00"
+        ],
+        "description": [
+            "Key Distribution Center Service Account"
+        ],
+        "distinguishedName": [
+            "CN=krbtgt,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Denied RODC Password Replication Group,OU=Groups,DC=MARVEL,DC=local"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "krbtgt"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{76ce2cce-cf99-40e7-8e4c-5ae4fcc6c063}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-502"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2023-09-13 21:04:26.043064+00:00"
+        ],
+        "sAMAccountName": [
+            "krbtgt"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "kadmin/changepw"
+        ],
+        "showInAdvancedViewOnly": [
+            true
+        ],
+        "uSNChanged": [
+            16447
+        ],
+        "uSNCreated": [
+            12324
+        ],
+        "userAccountControl": [
+            514
+        ],
+        "whenChanged": [
+            "2023-09-13 21:26:51+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:04:26+00:00"
+        ]
+    },
+    "dn": "CN=krbtgt,CN=Users,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Guest"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2023-09-13 21:04:26+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "description": [
+            "Built-in account for guest access to the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Guest,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Guests,CN=Builtin,DC=MARVEL,DC=local"
+        ],
+        "name": [
+            "Guest"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{5ed2d3b3-aa79-4902-a3ca-cb348b93712f}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-501"
+        ],
+        "primaryGroupID": [
+            514
+        ],
+        "pwdLastSet": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "sAMAccountName": [
+            "Guest"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            8197
+        ],
+        "uSNCreated": [
+            8197
+        ],
+        "userAccountControl": [
+            66082
+        ],
+        "whenChanged": [
+            "2023-09-13 21:03:48+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:03:48+00:00"
+        ]
+    },
+    "dn": "CN=Guest,CN=Users,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2023-09-20 12:55:33.002148+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Administrator"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2023-09-13 21:26:51+00:00",
+            "2023-09-13 21:26:51+00:00",
+            "2023-09-13 21:04:26+00:00",
+            "1601-01-01 18:12:16+00:00"
+        ],
+        "description": [
+            "Built-in account for administering the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Administrator,CN=Users,DC=MARVEL,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2023-09-20 12:56:39.315174+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2023-09-13 21:07:13.871441+00:00"
+        ],
+        "logonCount": [
+            11
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Domain Admins,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Enterprise Admins,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Schema Admins,OU=Groups,DC=MARVEL,DC=local",
+            "CN=Administrators,CN=Builtin,DC=MARVEL,DC=local"
+        ],
+        "name": [
+            "Administrator"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{d535b634-ef75-49ce-870d-6c2780f243f5}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-500"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2023-09-13 15:09:50.364408+00:00"
+        ],
+        "sAMAccountName": [
+            "Administrator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            16429
+        ],
+        "uSNCreated": [
+            8196
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "whenChanged": [
+            "2023-09-13 21:26:51+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:03:48+00:00"
+        ]
+    },
+    "dn": "CN=Administrator,CN=Users,DC=MARVEL,DC=local"
+}]

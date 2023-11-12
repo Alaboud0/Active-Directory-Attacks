@@ -1,0 +1,170 @@
+[{
+    "attributes": {
+        "auditingPolicy": [
+            "\u0000\u0001"
+        ],
+        "creationTime": [
+            "2023-09-18 23:24:52.233501+00:00"
+        ],
+        "dSASignature": [
+            {
+                "encoded": "AQAAACgAAAAAAAAAAAAAAAAAAAAAAAAAUuoRRhczY0WuTTTPWTDmsA==",
+                "encoding": "base64"
+            }
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "dc": [
+            "MARVEL"
+        ],
+        "distinguishedName": [
+            "DC=MARVEL,DC=local"
+        ],
+        "fSMORoleOwner": [
+            "CN=NTDS Settings,CN=HYDRA-DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "forceLogoff": [
+            -9223372036854775808
+        ],
+        "gPLink": [
+            "[LDAP://cn={28cfb303-f918-4aba-9ce0-eda5c6505938},cn=policies,cn=system,DC=MARVEL,DC=local;2]"
+        ],
+        "instanceType": [
+            5
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lockOutObservationWindow": [
+            "0:30:00"
+        ],
+        "lockoutDuration": [
+            "0:30:00"
+        ],
+        "lockoutThreshold": [
+            0
+        ],
+        "masteredBy": [
+            "CN=NTDS Settings,CN=HYDRA-DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "maxPwdAge": [
+            "42 days, 0:00:00"
+        ],
+        "minPwdAge": [
+            "1 day, 0:00:00"
+        ],
+        "minPwdLength": [
+            7
+        ],
+        "modifiedCount": [
+            1
+        ],
+        "modifiedCountAtLastProm": [
+            0
+        ],
+        "ms-DS-MachineAccountQuota": [
+            10
+        ],
+        "msDS-AllUsersTrustQuota": [
+            1000
+        ],
+        "msDS-Behavior-Version": [
+            7
+        ],
+        "msDS-ExpirePasswordsOnSmartCardOnlyAccounts": [
+            true
+        ],
+        "msDS-IsDomainFor": [
+            "CN=NTDS Settings,CN=HYDRA-DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "msDS-NcType": [
+            0
+        ],
+        "msDS-PerUserTrustQuota": [
+            1
+        ],
+        "msDS-PerUserTrustTombstonesQuota": [
+            10
+        ],
+        "msDs-masteredBy": [
+            "CN=NTDS Settings,CN=HYDRA-DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "nTMixedDomain": [
+            0
+        ],
+        "name": [
+            "MARVEL"
+        ],
+        "nextRid": [
+            1000
+        ],
+        "objectCategory": [
+            "CN=Domain-DNS,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "domain",
+            "domainDNS"
+        ],
+        "objectGUID": [
+            "{7eacab40-5e66-4579-a50f-7eb6bec2534b}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937"
+        ],
+        "otherWellKnownObjects": [
+            "B:32:683A24E2E8164BD3AF86AC3C2CF3F981:CN=Keys,DC=MARVEL,DC=local",
+            "B:32:1EB93889E40C45DF9F0C64D23BBB6237:CN=Managed Service Accounts,DC=MARVEL,DC=local"
+        ],
+        "pwdHistoryLength": [
+            24
+        ],
+        "pwdProperties": [
+            1
+        ],
+        "rIDManagerReference": [
+            "CN=RID Manager$,CN=System,DC=MARVEL,DC=local"
+        ],
+        "serverState": [
+            1
+        ],
+        "subRefs": [
+            "DC=ForestDnsZones,DC=MARVEL,DC=local",
+            "DC=DomainDnsZones,DC=MARVEL,DC=local",
+            "CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "systemFlags": [
+            -1946157056
+        ],
+        "uASCompat": [
+            0
+        ],
+        "uSNChanged": [
+            41257
+        ],
+        "uSNCreated": [
+            4099
+        ],
+        "wellKnownObjects": [
+            "B:32:6227F0AF1FC2410D8E3BB10615BB5B0F:CN=NTDS Quotas,DC=MARVEL,DC=local",
+            "B:32:F4BE92A4C777485E878E9421D53087DB:CN=Microsoft,CN=Program Data,DC=MARVEL,DC=local",
+            "B:32:09460C08AE1E4A4EA0F64AEE7DAA1E5A:CN=Program Data,DC=MARVEL,DC=local",
+            "B:32:22B70C67D56E4EFB91E9300FCA3DC1AA:CN=ForeignSecurityPrincipals,DC=MARVEL,DC=local",
+            "B:32:18E2EA80684F11D2B9AA00C04F79F805:CN=Deleted Objects,DC=MARVEL,DC=local",
+            "B:32:2FBAC1870ADE11D297C400C04FD8D5CD:CN=Infrastructure,DC=MARVEL,DC=local",
+            "B:32:AB8153B7768811D1ADED00C04FD8D5CD:CN=LostAndFound,DC=MARVEL,DC=local",
+            "B:32:AB1D30F3768811D1ADED00C04FD8D5CD:CN=System,DC=MARVEL,DC=local",
+            "B:32:A361B2FFFFD211D1AA4B00C04FD7D83A:OU=Domain Controllers,DC=MARVEL,DC=local",
+            "B:32:AA312825768811D1ADED00C04FD8D5CD:CN=Computers,DC=MARVEL,DC=local",
+            "B:32:A9D1CA15768811D1ADED00C04FD8D5CD:CN=Users,DC=MARVEL,DC=local"
+        ],
+        "whenChanged": [
+            "2023-09-20 12:57:37+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:03:41+00:00"
+        ]
+    },
+    "dn": "DC=MARVEL,DC=local"
+}]

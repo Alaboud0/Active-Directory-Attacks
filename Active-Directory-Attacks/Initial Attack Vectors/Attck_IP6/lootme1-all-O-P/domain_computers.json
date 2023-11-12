@@ -1,0 +1,382 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "SPIDERMAN"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "SPIDERMAN.MARVEL.local"
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "distinguishedName": [
+            "CN=SPIDERMAN,CN=Computers,DC=MARVEL,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            false
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2023-09-20 12:40:03.063801+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2023-09-13 22:30:03.188906+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            23
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "SPIDERMAN"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{2fc97ce6-8e23-4f4c-8e31-3b390cf9fd63}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1108"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise Evaluation"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (19045)"
+        ],
+        "primaryGroupID": [
+            515
+        ],
+        "pwdLastSet": [
+            "2023-09-13 22:30:02.985691+00:00"
+        ],
+        "sAMAccountName": [
+            "SPIDERMAN$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "servicePrincipalName": [
+            "TERMSRV/SPIDERMAN",
+            "TERMSRV/SPIDERMAN.MARVEL.local",
+            "RestrictedKrbHost/SPIDERMAN",
+            "HOST/SPIDERMAN",
+            "RestrictedKrbHost/SPIDERMAN.MARVEL.local",
+            "HOST/SPIDERMAN.MARVEL.local"
+        ],
+        "uSNChanged": [
+            16508
+        ],
+        "uSNCreated": [
+            16490
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenChanged": [
+            "2023-09-13 22:30:42+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 22:30:02+00:00"
+        ]
+    },
+    "dn": "CN=SPIDERMAN,CN=Computers,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "PUNISHER"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "PUNISHER.MARVEL.local"
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "distinguishedName": [
+            "CN=PUNISHER,CN=Computers,DC=MARVEL,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            false
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2023-09-20 12:53:59.063786+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2023-09-13 21:57:05.767664+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            30
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "PUNISHER"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{24efa55c-a2f1-491e-928d-23dc17d79106}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1107"
+        ],
+        "operatingSystem": [
+            "Windows 10 Enterprise Evaluation"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (19045)"
+        ],
+        "primaryGroupID": [
+            515
+        ],
+        "pwdLastSet": [
+            "2023-09-13 21:57:55.673223+00:00"
+        ],
+        "sAMAccountName": [
+            "PUNISHER$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "servicePrincipalName": [
+            "TERMSRV/PUNISHER",
+            "TERMSRV/PUNISHER.MARVEL.local",
+            "RestrictedKrbHost/PUNISHER",
+            "HOST/PUNISHER",
+            "RestrictedKrbHost/PUNISHER.MARVEL.local",
+            "HOST/PUNISHER.MARVEL.local"
+        ],
+        "uSNChanged": [
+            16474
+        ],
+        "uSNCreated": [
+            16455
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenChanged": [
+            "2023-09-13 21:58:06+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:57:05+00:00"
+        ]
+    },
+    "dn": "CN=PUNISHER,CN=Computers,DC=MARVEL,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "HYDRA-DC"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "HYDRA-DC.MARVEL.local"
+        ],
+        "dSCorePropagationData": [
+            "2023-09-13 21:04:26+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "distinguishedName": [
+            "CN=HYDRA-DC,OU=Domain Controllers,DC=MARVEL,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2023-09-20 07:25:05.225422+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2023-09-13 21:05:05.777899+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            165
+        ],
+        "memberOf": [
+            "CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=MARVEL,DC=local",
+            "CN=Cert Publishers,OU=Groups,DC=MARVEL,DC=local"
+        ],
+        "msDFSR-ComputerReferenceBL": [
+            "CN=HYDRA-DC,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=MARVEL,DC=local"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "HYDRA-DC"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{9f1d7014-3422-4c1c-a56c-49983806a3aa}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2838831074-4245828567-1818591937-1000"
+        ],
+        "operatingSystem": [
+            "Windows Server 2022 Standard Evaluation"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (20348)"
+        ],
+        "primaryGroupID": [
+            516
+        ],
+        "pwdLastSet": [
+            "2023-09-13 21:04:54.105742+00:00"
+        ],
+        "rIDSetReferences": [
+            "CN=RID Set,CN=HYDRA-DC,OU=Domain Controllers,DC=MARVEL,DC=local"
+        ],
+        "sAMAccountName": [
+            "HYDRA-DC$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "serverReferenceBL": [
+            "CN=HYDRA-DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=MARVEL,DC=local"
+        ],
+        "servicePrincipalName": [
+            "TERMSRV/HYDRA-DC",
+            "TERMSRV/HYDRA-DC.MARVEL.local",
+            "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/HYDRA-DC.MARVEL.local",
+            "ldap/HYDRA-DC.MARVEL.local/ForestDnsZones.MARVEL.local",
+            "ldap/HYDRA-DC.MARVEL.local/DomainDnsZones.MARVEL.local",
+            "DNS/HYDRA-DC.MARVEL.local",
+            "GC/HYDRA-DC.MARVEL.local/MARVEL.local",
+            "RestrictedKrbHost/HYDRA-DC.MARVEL.local",
+            "RestrictedKrbHost/HYDRA-DC",
+            "RPC/4611ea52-3317-4563-ae4d-34cf5930e6b0._msdcs.MARVEL.local",
+            "HOST/HYDRA-DC/MARVEL",
+            "HOST/HYDRA-DC.MARVEL.local/MARVEL",
+            "HOST/HYDRA-DC",
+            "HOST/HYDRA-DC.MARVEL.local",
+            "HOST/HYDRA-DC.MARVEL.local/MARVEL.local",
+            "E3514235-4B06-11D1-AB04-00C04FC2DCD2/4611ea52-3317-4563-ae4d-34cf5930e6b0/MARVEL.local",
+            "ldap/HYDRA-DC/MARVEL",
+            "ldap/4611ea52-3317-4563-ae4d-34cf5930e6b0._msdcs.MARVEL.local",
+            "ldap/HYDRA-DC.MARVEL.local/MARVEL",
+            "ldap/HYDRA-DC",
+            "ldap/HYDRA-DC.MARVEL.local",
+            "ldap/HYDRA-DC.MARVEL.local/MARVEL.local"
+        ],
+        "uSNChanged": [
+            16417
+        ],
+        "uSNCreated": [
+            12293
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "userCertificate": [
+            {
+                "encoded": "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",
+                "encoding": "base64"
+            }
+        ],
+        "whenChanged": [
+            "2023-09-13 21:12:26+00:00"
+        ],
+        "whenCreated": [
+            "2023-09-13 21:04:25+00:00"
+        ]
+    },
+    "dn": "CN=HYDRA-DC,OU=Domain Controllers,DC=MARVEL,DC=local"
+}]
