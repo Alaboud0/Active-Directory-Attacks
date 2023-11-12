@@ -1,2 +1,7 @@
-# Active-Directory-Attacks
-Exploiting the MultiPubiler vulnerability to launch an attack on Windows Servers through Active Directory LAPS
+# Instructions For Names of Files 
+TXXX->T =tool ,XXX -> Name Of Tool 
+U->User
+TRXX->Tr = Target , XX = Ending of number IP 
+O-P-> Output of result
+db->database
+U->user
