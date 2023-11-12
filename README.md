@@ -5,7 +5,7 @@
 
 -TRXX --> Tr = Target , XX = Ending of number IP Address 
 
--O-P --> Output of result
+-O-P --> Output Result
 
 -db --> database
 
